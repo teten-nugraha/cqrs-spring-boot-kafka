@@ -1,0 +1,12 @@
+HELP.md
+cqrs-pattern/target/
+cqrs-pattern.mvn/wrapper/maven-wrapper.jar
+cqrs-pattern/src/main/**/target/
+cqrs-pattern/src/test/**/target/
+
+
+### IntelliJ IDEA ###
+cqrs-pattern.idea
+cqrs-pattern.iws
+cqrs-pattern.iml
+cqrs-pattern.ipr
