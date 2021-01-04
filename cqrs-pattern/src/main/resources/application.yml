@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/cqrs-example
+    username: root
+    password: root
+
+app:
+  write:
+    enabled: false
